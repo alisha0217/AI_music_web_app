@@ -1,0 +1,14 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+
+.note{
+    font-size:15px;
+    color:rgb(69, 43, 83);
+}
+
+body{
+    background-size: cover;
+}
