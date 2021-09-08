@@ -1,5 +1,5 @@
-song1 = "Song1.mp3"
-song2 = "Song2.mp3"
+song1 = ""
+song2 = ""
 
 function preload(){
     song1 = loadSound("Song1.mp3");
